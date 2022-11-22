@@ -75,6 +75,7 @@ gem 'spree', spree_opts
 gem 'spree_sample', spree_opts
 gem 'spree_emails', spree_opts
 gem 'spree_backend', spree_opts
+gem 'spree_frontend', github: 'haukurhrafn/spree_legacy_frontend', branch: '4-4-stable'
 gem 'spree_gateway'
 gem 'spree_auth_devise'
 gem 'spree_i18n', '>= 5.0'
